@@ -1,6 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 
 package com.mycompany.java.algorithms.implementation;
 
@@ -11,6 +9,7 @@ package com.mycompany.java.algorithms.implementation;
 public class JavaAlgorithmsImplementation {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        StandardDeviation sd = new StandardDeviation();
+                
     }
 }
